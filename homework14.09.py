@@ -21,6 +21,6 @@
 # print(area)
 
 # 1.4
-inch = float(input())
-result = inch * 2.54
-print(result)
+# inch = float(input())
+# result = inch * 2.54
+# print(result)

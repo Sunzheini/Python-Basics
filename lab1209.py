@@ -8,10 +8,10 @@ import math
 
 # # zadacha 2
 #  floor zakryglqva kym dolnoto nai blizko chislo
-radians = float(input())
+# radians = float(input())
 # print(math.floor(radians))
-degrees = radians * 180 / math.pi
-print(degrees)
+# degrees = radians * 180 / math.pi
+# print(degrees)
 
 
 
